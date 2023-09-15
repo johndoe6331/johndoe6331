@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Super Gay</h1>
+<h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on **ifsp hortolândia**
